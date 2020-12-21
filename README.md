@@ -15,7 +15,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 | Tests | [![Build status](https://github.com/ubermag/discretisedfield/workflows/workflow/badge.svg)](https://github.com/ubermag/discretisedfield/actions) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/discretisedfield/HEAD?urlpath=lab/tree/docs/ipynb/index.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| DOI | [![DOI](https://zenodo.org/badge/67028400.svg)](https://zenodo.org/badge/latestdoi/67028400) |
+| DOI | Coming soon... |
 
 ## About
 
