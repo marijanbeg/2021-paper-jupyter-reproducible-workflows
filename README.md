@@ -15,7 +15,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 | Tests | [![Build status](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/workflows/workflow/badge.svg)](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/actions) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-jupyter-reproducible-workflows/HEAD?urlpath=lab/tree/notebooks/use-case-ubermag.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| DOI | Coming soon... |
+| DOI | [![DOI](https://zenodo.org/badge/323295897.svg)](https://zenodo.org/badge/latestdoi/323295897) |
 
 ## About
 
@@ -35,7 +35,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 1. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, Nicolas Thiéry, and Hans Fangohr. Using Jupyter for reproducible scientific workflows. <journal, vol, page> (2021).
 
-2. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, Nicolas Thiéry, and Hans Fangohr. Using Jupyter for reproducible scientific workflows. <DOI> (2021).
+2. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, Nicolas Thiéry, and Hans Fangohr. Using Jupyter for reproducible scientific workflows. DOI: [10.5281/zenodo.4382225](https://zenodo.org/record/4382225) (2021).
 
 ## Acknowledgements
 
