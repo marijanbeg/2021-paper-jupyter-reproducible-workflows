@@ -16,10 +16,11 @@ jobs:
     - name: Set up conda
       uses: conda-incubator/setup-miniconda@v2
       with:
+        auto-update-conda: true
         activate-environment: ubermag-environment
         environment-file: binder/environment.yml
-        python-version: 3.8
         channels: conda-forge
+        channel-priority: flexible
         auto-activate-base: false
 
     - name: Install dependencies
