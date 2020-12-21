@@ -20,8 +20,8 @@ jobs:
         activate-environment: ubermag-environment
         environment-file: binder/environment.yml
         python-version: 3.8
-        channel-priority: strict
-        channels: conda-forge
+        # channel-priority: strict
+        # channels: conda-forge
         auto-activate-base: false
 
     - name: Install dependencies
