@@ -19,21 +19,13 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
 ## About
 
-This repository contains all the necesary data and information required to reproduce Figure 3 in:
+This repository contains all the necessary data and information required to reproduce Figure 3 in:
 
 - Beg et al. Using Jupyter for reproducible scientific workflows. <journal, vol, page> (2021).
 
 ## Binder
 
-This package can be used in the cloud via Binder. To access Binder, use the badge in the table above.
-
-## Support
-
-If you require support, have questions, want to report a bug, or want to suggest an improvement, please raise an issue in this repository.
-
-## Contributions
-
-All contributions are welcome, however small they are. If you would like to contribute, please fork the repository and create a pull request. However, if you are not sure how to contribute, please contact us by raising an issue in this repository, and we are going to help you get started and assist you on the way.
+This package can be used in the cloud via [myBinder](https://mybinder.org/v2/gh/marijanbeg/2021-paper-jupyter-reproducible-workflows/HEAD?urlpath=lab/tree/notebooks/use-case-ubermag.ipynb).
 
 ## License
 
