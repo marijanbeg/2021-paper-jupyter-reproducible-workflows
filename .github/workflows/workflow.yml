@@ -26,11 +26,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
 
     - name: Install testing packages
-      # shell: bash -l {0}
       run: python -m pip install --upgrade pip nbval
-      # if: matrix.os == 'ubuntu-latest' || matrix.os == 'macos-latest'
 
     - name: Jupyter notebook tests
-      # shell: bash -l {0}
       run: python -m pytest -v --nbval-lax notebooks/*.ipynb
-      # if: matrix.os == 'ubuntu-latest' || matrix.os == 'macos-latest'

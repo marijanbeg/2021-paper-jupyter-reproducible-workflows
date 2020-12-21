@@ -19,7 +19,9 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
 ## About
 
-This repository contains all the necesary data and information required to reproduce Figure 3 in: Beg et al. Using Jupyter for reproducible scientific workflows.
+This repository contains all the necesary data and information required to reproduce Figure 3 in:
+
+- Beg et al. Using Jupyter for reproducible scientific workflows. <journal, vol, page> (2021).
 
 ## Binder
 
