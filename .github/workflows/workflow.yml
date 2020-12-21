@@ -8,7 +8,6 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        python-version: [3.9]
 
     steps:
     - name: Initialisation
@@ -20,6 +19,7 @@ jobs:
         activate-environment: ubermag-environment
         environment-file: binder/environment.yml
         python-version: 3.8
+        channels: conda-forge
         auto-activate-base: false
 
     - name: Install dependencies

@@ -1,4 +1,4 @@
-# Supporting information: Using Jupyter for reproducible scientific workflows
+# Using Jupyter for reproducible scientific workflows
 Marijan Beg<sup>1</sup>, Juliette Belin<sup>2</sup>, Thomas Kluyver<sup>3</sup>, Alexander Konovalov<sup>4</sup>, Min Ragan-Kelley<sup>5</sup>,
 Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
