@@ -18,7 +18,6 @@ jobs:
       with:
         auto-update-conda: true
         environment-file: binder/environment.yml
-        channels: conda-forge
         channel-priority: flexible
 
     - name: Install dependencies
