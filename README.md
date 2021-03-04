@@ -12,6 +12,8 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
 | Description | Badge |
 | --- | --- |
+| Paper | [![Paper](https://img.shields.io/badge/IEEEComputing-blue.svg)](https://www.computer.org/csdl/magazine/cs/5555/01/09325550/1qpv5m0XzdC) |
+| Preprint | [![Preprint](https://img.shields.io/badge/arXiv-2102.09562-green.svg)](https://arxiv.org/abs/2102.09562) |
 | Tests | [![Build status](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/workflows/workflow/badge.svg)](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/actions) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-jupyter-reproducible-workflows/HEAD?urlpath=lab/tree/notebooks/use-case-ubermag.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
