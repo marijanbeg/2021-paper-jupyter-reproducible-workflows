@@ -12,7 +12,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
 | Description | Badge |
 | --- | --- |
-| Paper | [![Paper](https://img.shields.io/badge/paper-Computing%20in%20Science%20%26%20Engineering%2023%2C%2036-blue)](https://ieeexplore.ieee.org/document/9325550) |
+| Paper | [![Paper](https://img.shields.io/badge/Computing%20in%20Science%20%26%20Engineering-23:36%20(2021)-blue)](https://ieeexplore.ieee.org/document/9325550) |
 | Preprint | [![Preprint](https://img.shields.io/badge/arXiv-2102.09562-green.svg)](https://arxiv.org/abs/2102.09562) |
 | Tests | [![Build status](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/workflows/workflow/badge.svg)](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/actions) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-jupyter-reproducible-workflows/HEAD?urlpath=lab/tree/notebooks/use-case-ubermag.ipynb) |
