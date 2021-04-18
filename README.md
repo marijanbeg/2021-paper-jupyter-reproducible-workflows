@@ -35,7 +35,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-1.M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. [*Computing in Science & Engineering* **23**, 36-46](https://ieeexplore.ieee.org/document/9325550/) (2021).
+1. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. [*Computing in Science & Engineering* **23**, 36-46](https://ieeexplore.ieee.org/document/9325550/) (2021).
 
 2. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Accompanying repository for "Using Jupyter for reproducible scientific workflows". GitHub: https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows, DOI: [10.5281/zenodo.4382225](https://zenodo.org/record/4382225) (2021).
 
