@@ -23,7 +23,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
 This repository contains all the necessary data and information required to reproduce Figure 3 in:
 
-- M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. *Computing in Science & Engineering* **36**, 36-46 (2021).
+- M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. *Computing in Science & Engineering* **23**, 36-46 (2021).
 
 ## Binder
 
@@ -35,7 +35,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-1. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. *Computing in Science & Engineering* **36**, 36-46 (2021).
+1. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. *Computing in Science & Engineering* **23**, 36-46 (2021).
 
 2. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Accompanying repository for "Using Jupyter for reproducible scientific workflows". GitHub: https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows, DOI: [10.5281/zenodo.4382225](https://zenodo.org/record/4382225) (2021).
 
