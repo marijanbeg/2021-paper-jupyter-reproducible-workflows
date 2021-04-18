@@ -7,7 +7,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 <sup>3</sup> *European XFEL GmbH, Holzkoppel 4, 22869 Schenefeld, Germany*  
 <sup>4</sup> *School of Computer Science, University of St Andrews, College Gate, KY16 9AJ St Andrews, United Kingdom*  
 <sup>5</sup> *Simula Research Laboratory, Martin Linges vei 25, 1364 Fornebu, Norway*  
-<sup>6</sup> *Laboratoire de Recherche en Informatique, Université Paris-Sud, 6 Rue Noetzlin, 91190 Gif-sur-Yvette, France*  
+<sup>6</sup> *Laboratoire de Recherche en Informatique, Université Paris-Saclay, Orsay, CNRS, France*  
 <sup>7</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
 
 | Description | Badge |
