@@ -12,7 +12,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
 | Description | Badge |
 | --- | --- |
-| Paper | [![Paper](https://img.shields.io/badge/paper-IEEEComputing-blue.svg)](https://www.computer.org/csdl/magazine/cs/5555/01/09325550/1qpv5m0XzdC) |
+| Paper | [![Paper](https://img.shields.io/badge/-Computing%20in%20Science%20%26%20Engineering%2023%2C%2036-blue)](https://ieeexplore.ieee.org/document/9325550) |
 | Preprint | [![Preprint](https://img.shields.io/badge/arXiv-2102.09562-green.svg)](https://arxiv.org/abs/2102.09562) |
 | Tests | [![Build status](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/workflows/workflow/badge.svg)](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/actions) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-jupyter-reproducible-workflows/HEAD?urlpath=lab/tree/notebooks/use-case-ubermag.ipynb) |
@@ -23,7 +23,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>1,3,7</sup>
 
 This repository contains all the necessary data and information required to reproduce Figure 3 in:
 
-- M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. <journal, vol, page> (2021).
+- M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. *Computing in Science & Engineering* **36**, 36-46 (2021).
 
 ## Binder
 
@@ -35,7 +35,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-1. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. <journal, vol, page> (2021).
+1. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Using Jupyter for reproducible scientific workflows. *Computing in Science & Engineering* **36**, 36-46 (2021).
 
 2. M. Beg, J. Belin, T. Kluyver, A. Konovalov, M. Ragan-Kelley, N. Thiéry, and H. Fangohr. Accompanying repository for "Using Jupyter for reproducible scientific workflows". GitHub: https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows, DOI: [10.5281/zenodo.4382225](https://zenodo.org/record/4382225) (2021).
 
