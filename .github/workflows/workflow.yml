@@ -30,4 +30,4 @@ jobs:
       run: python -m pip install --upgrade pip nbval
 
     - name: Jupyter notebook tests
-      run: python -m pytest -v --nbval-lax --sanitize-with nbval.cfg notebooks
+      run: python -m pytest -v --nbval-lax --sanitize-with .github/workflows/nbval.cfg notebooks
