@@ -52,7 +52,7 @@ preferred-citation:
   title: Using Jupyter for Reproducible Scientific Workflows
   journal: "Computing in Science & Engineering"
   volume: 23
-  number: 36
+  issue: 36
   year: 2021
   identifiers:
     - type: doi
