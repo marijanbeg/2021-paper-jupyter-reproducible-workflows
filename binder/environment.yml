@@ -5,4 +5,4 @@ channels:
 
 dependencies:
   - python==3.9
-  - ubermag==0.51
+  - ubermag==0.62.0
