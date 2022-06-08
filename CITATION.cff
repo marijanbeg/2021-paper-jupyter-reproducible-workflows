@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite using the metadata from 'preferred-citation'."
 preferred-citation:
+  type: article
   authors:
     - given-names: Marijan
       family-names: Beg
@@ -21,8 +22,11 @@ preferred-citation:
     - given-names: Hans
       family-names: Fangohr
       orcid: 'https://orcid.org/0000-0001-5494-7193'
-  type: article
   title: Using Jupyter for Reproducible Scientific Workflows
+  journal: "Computing in Science & Engineering"
+  volume: 23
+  pages: 36
+  year: 2021
   identifiers:
     - type: doi
       value: 10.1109/MCSE.2021.3052101
