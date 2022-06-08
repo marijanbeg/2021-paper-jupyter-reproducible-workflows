@@ -1,5 +1,32 @@
 cff-version: 1.2.0
 message: "Please cite using the metadata from 'preferred-citation'."
+type: software
+authors:
+  - given-names: Marijan
+    family-names: Beg
+    orcid: 'https://orcid.org/0000-0002-6670-3994'
+  - given-names: Juliette
+    family-names: Taka
+  - given-names: Thomas
+    family-names: Kluyver
+    orcid: 'https://orcid.org/0000-0003-4020-6364'
+  - given-names: Alexander
+    family-names: Konovalov
+    orcid: 'https://orcid.org/0000-0001-5299-3292'
+  - given-names: Min
+    family-names: Ragan-Kelley
+  - given-names: Nicolas M.
+    family-names: Thiéry
+    orcid: 'https://orcid.org/0000-0002-2735-8921'
+  - given-names: Hans
+    family-names: Fangohr
+    orcid: 'https://orcid.org/0000-0001-5494-7193'
+title: Using Jupyter for Reproducible Scientific Workflows
+repository-code: https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.4382224
+license: BSD-3-Clause
 preferred-citation:
   type: article
   authors:
@@ -30,31 +57,3 @@ preferred-citation:
   identifiers:
     - type: doi
       value: 10.1109/MCSE.2021.3052101
-type: software
-authors:
-  - given-names: Marijan
-    family-names: Beg
-    orcid: 'https://orcid.org/0000-0002-6670-3994'
-  - given-names: Juliette
-    family-names: Taka
-  - given-names: Thomas
-    family-names: Kluyver
-    orcid: 'https://orcid.org/0000-0003-4020-6364'
-  - given-names: Alexander
-    family-names: Konovalov
-    orcid: 'https://orcid.org/0000-0001-5299-3292'
-  - given-names: Min
-    family-names: Ragan-Kelley
-  - given-names: Nicolas M.
-    family-names: Thiéry
-    orcid: 'https://orcid.org/0000-0002-2735-8921'
-  - given-names: Hans
-    family-names: Fangohr
-    orcid: 'https://orcid.org/0000-0001-5494-7193'
-title: Using Jupyter for Reproducible Scientific Workflows
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.4382224
-repository-code: >-
-  https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows
-license: BSD-3-Clause
