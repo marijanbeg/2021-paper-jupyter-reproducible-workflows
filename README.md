@@ -5,7 +5,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>7</sup>
 <sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
 <sup>2</sup> *Logilab, 75013 Paris, France*  
 <sup>3</sup> *European XFEL GmbH, 22869 Schenefeld, Germany*  
-<sup>4</sup> *School of Computer Science, University of St Andrews, KY16 9AJ St Andrews, United Kingdom*  
+<sup>4</sup> *School of Computer Science, University of St Andrews, St Andrews KY16 9AJ, United Kingdom*  
 <sup>5</sup> *Simula Research Laboratory, 1364 Fornebu, Norway*  
 <sup>6</sup> *Laboratoire de Recherche en Informatique, Université Paris-Saclay, CNRS, 91405 Orsay, France*  
 <sup>7</sup> *Max Planck Institute for the Structure and Dynamics of Matter, 22761 Hamburg, Germany*  
@@ -17,7 +17,7 @@ Nicolas Thiéry<sup>6</sup>, and Hans Fangohr<sup>7</sup>
 | Tests | [![Build status](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/workflows/workflow/badge.svg)](https://github.com/marijanbeg/2021-paper-jupyter-reproducible-workflows/actions) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-jupyter-reproducible-workflows/HEAD?labpath=notebooks%2Fuse-case-ubermag.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| DOI | [![DOI](https://zenodo.org/badge/323295897.svg)](https://zenodo.org/badge/latestdoi/323295897) |
+| DOI | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4382224.svg)](https://doi.org/10.5281/zenodo.4382224) |
 
 ## About
 
@@ -27,7 +27,7 @@ This repository contains all the necessary data and information required to repr
 
 ## Binder
 
-You can run the Jupyter notebook in the cloud via [myBinder](https://mybinder.org/v2/gh/marijanbeg/2021-paper-jupyter-reproducible-workflows/HEAD?urlpath=lab/tree/notebooks/use-case-ubermag.ipynb).
+You can run the Jupyter notebook in the cloud via Binder. To access Binder, use the badge in the table above.
 
 ## License
 
